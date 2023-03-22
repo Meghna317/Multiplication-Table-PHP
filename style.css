@@ -1,0 +1,196 @@
+.custom {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    text-align: center;
+    background: #1E90FF;
+    height: 50px;
+    color:#FFFFFF;
+}
+.text-one {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #B22222;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-two {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #F77429;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-three {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #FFA500;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-four {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #228B22;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-five {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #1E90FF;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-six {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #7209FB;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-seven {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #FF00FF;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-eight {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #B22222;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-nine {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #228B22;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-ten {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #FFA500;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-eleven {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #F77429;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.text-tweleve {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    background: #1E90FF;
+    text-transform: uppercase;
+    display:inline-block;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.container {
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px 300px 300px; 
+    grid-template-rows: 450px;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    text-align: center;
+} 
+.item-one {
+    background: #ce8888;
+    font-size: 1.875em;
+  }
+  .item-two {
+    background: #F4A460;
+    font-size: 1.875em;
+  }
+  .item-three {
+    background: #F3D07D;
+    font-size: 1.875em;
+  }
+  .item-four {
+    background: #A4D990;
+    font-size: 1.875em;
+  }
+  .item-five {
+    background: #87CEFA;
+    font-size: 1.875em;
+  }
+  .item-six {
+    background: #B98AC7;
+    font-size: 1.875em;
+  }
+  .item-seven {
+    background: #EFA2E2;
+    font-size: 1.875em;
+  }
+  .item-eight {
+    background: #ce8888;
+    font-size: 1.875em;
+  }
+  .item-nine {
+    background: #A4D990;
+    font-size: 1.875em;
+  }
+  .item-ten {
+    background: #F3D07D;
+    font-size: 1.875em;
+  }
+  .item-eleven {
+    background: #F4A460;
+    font-size: 1.875em;
+  }
+  .item-tweleve {
+    background: #87CEFA;
+    font-size: 1.875em;
+  }
